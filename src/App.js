@@ -5,7 +5,7 @@ import GameContainer from "./components/GameContainer"
 import './App.css';
 
 const App = () => (
-  <div className="conainter-fluid mainContainer">
+  <div className="container-fluid">
     <Jumbotron />
     <GameContainer />
   </div>

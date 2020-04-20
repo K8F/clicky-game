@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
 import Cards from '../Cards';
+import "./GameContainer.css";
 import images from "../../images.json";
 
 class GameContainer extends Component {
     state = {
         images,
-        message: "Click an image to begin!",
+        message: "Click an image to begin.",
         score: 0,
         topScore: 0
     };
