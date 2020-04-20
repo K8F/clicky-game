@@ -3,72 +3,72 @@
         "id": 1,
         "name": "jm-halloween",
         "clicked": false,
-        "link": "https://pbs.twimg.com/profile_images/1206808119939960832/QP1VL1w-_400x400.jpg"
+        "image": "https://pbs.twimg.com/profile_images/1206808119939960832/QP1VL1w-_400x400.jpg"
     },
     {
         "id": 2,
-        "name": "jm-paris",
+        "name": "jm-suit",
         "clicked": false,
-        "link": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Janelle_Monae_Paris_Fashion_Week_Autumn_Winter_2019.jpg"
+        "image": "https://lh3.googleusercontent.com/proxy/h5OOvJ1SmmwvUnjOnp9oF4c5nQw9JDsNtOn1ZKZtrZ_2jNhwUtdGpypqPb7L-Ic7-YvLosf56m3BUKxQzOkJ4CqaAhwfA_mvQVsz01SDnHEvIZncm2RyWgysaX7dKfLuO2wUV2QG-VB9yCjJIyoPeLtu8tc8PMUpY2CFyZ75"
     },
     {
         "id": 3,
-        "name": "jm-sparkle",
+        "name": "jm-red",
         "clicked": false,
-        "link": "https://i.insider.com/5e1e0c1249878c0ef96fcdc2?width=1100&format=jpeg&auto=webp"
+        "image": "https://lh3.googleusercontent.com/proxy/BVm1Xqgif3cULZAo7lmAp3RJipCD3R-rdV4lYKbPjIK-Gu09wDfFUK4mTT-DeEzCq30_RCzNxOeoAaOz9SzMHoAOEGWr9dW6VXL3vmzTUcLmNKn1qNHaRjvHSFfU3xp_QpUndxfF6-bnBjW_tWo"
     },
     {
         "id": 4,
-        "name": "jm-oscars",
+        "name": "jm-dirtycomputer",
         "clicked": false,
-        "link": "https://www.essence.com/wp-content/uploads/2020/02/jm-oscars-hero-1920x1080.jpg?width=1920&height=1080"
+        "image": "https://www.recordshopx.com/cover/normal/5/57/578171.jpg?cd"
     },
     {
         "id": 5,
-        "name": "jm-eye",
+        "name": "jm-shutter",
         "clicked": false,
-        "link": "https://static.gofugyourself.com/uploads/2019/05/shutterstock_10229738rz-1557204758-600x900.jpg"
+        "image": "https://lh3.googleusercontent.com/proxy/rsr9zu56pLg5pq9zLbHdZq4cKlFxYpYVRjFs_dSh4AZwV79kMq37cqRWlfXvAp8xYKc8iNZEZEUZUNXyaPYBFoIQ3WmSr6zq2CZqyo5wqoNhaFyqEDNzKR5XGtKfJ65rlT1RRRv9YQR9udhv3jBnl8iOHiPadZTd"
     },
     {
         "id": 6,
-        "name": "jm-rainbow",
+        "name": "jm-met",
         "clicked": false,
-        "link": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1687,w_3000,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1561497054/190625-fallon-monae-tease_zs957n"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzT02ufpVWXYauKYS7h1rF8WV82jylEDaxJEt610YeJMELi3Al&usqp=CAU"
     },
     {
         "id": 7,
-        "name": "jm-pearls",
+        "name": "jm-shade",
         "clicked": false,
-        "link": "https://static.billboard.com/files/2020/03/Janelle-Mona%CC%81e-feb-6-2020-billboard-1548-1583780522-1024x677.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBx7xUIxxkqR8qE9Qe-6xrNz4eTJSBLwiG0T1qCnpBI8kN8GrC&usqp=CAU"
     },
     {
         "id": 8,
         "name": "jm-smolder",
         "clicked": false,
-        "link": "https://i.scdn.co/image/01725ba396132ac8166d89d5c5d9b4afc3b83229"
+        "image": "https://i.scdn.co/image/01725ba396132ac8166d89d5c5d9b4afc3b83229"
     },
     {
         "id": 9,
         "name": "jm-pynk",
         "clicked": false,
-        "link": "https://superselected.com/wp-content/uploads/2018/05/Janelle-Monae-PYNK-Vagina-Pants.jpg"
+        "image": "https://superselected.com/wp-content/uploads/2018/05/Janelle-Monae-PYNK-Vagina-Pants.jpg"
     },
     {
         "id": 10,
-        "name": "jm-django",
+        "name": "jm-coat",
         "clicked": false,
-        "link": "https://townsquare.media/site/812/files/2018/02/Janelle-Monae-Django-Jane.jpg?w=980&q=75"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZXG3ki_x_NfVU-2tJ0hD9FdbIftyNiAwHEYNtcUmHf_Xn7fHJ&usqp=CAU"
     },
     {
         "id": 11,
-        "name": "jm-feel",
+        "name": "jm-muppet",
         "clicked": false,
-        "link": "https://bloximages.newyork1.vip.townnews.com/redandblack.com/content/tncms/assets/v3/editorial/3/b2/3b24c538-1de1-11e8-8a75-6b753a508ab4/5a98ecb6dfea7.image.png?resize=1200%2C513"
+        "image": "https://vignette.wikia.nocookie.net/muppet/images/9/92/Janelle-Monae.jpg/revision/latest/window-crop/width/200/x-offset/111/y-offset/0/window-width/431/window-height/430?cb=20140114051531"
     },
     {
         "id": 12,
         "name": "jm-queen",
         "clicked": false,
-        "link": "https://images.contentstack.io/v3/assets/blt1b60905dd65bfb9b/blta62c64b9e7814215/5b06138138a1235573887d28/slider-janelle-monae-queen-video-solo.jpg"
+        "image": "https://i1.sndcdn.com/artworks-000072464879-tiv68p-t200x200.jpg?30a2558"
     }
-]
+    ]

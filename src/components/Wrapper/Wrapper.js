@@ -1,14 +1,16 @@
 import React, { Component } from 'react';
-//import cards
-//import images
+import Cards from '../Cards';
+import images from "../../images.json";
 
 class Wrapper extends Component {
     state = {
-        //images
+        images,
         message: "Click an image to begin!",
         score: 0,
         topScore: 0
     };
+
+    //handle click function
 
     render() {
         return (
@@ -20,7 +22,16 @@ class Wrapper extends Component {
                 <div className="container">
 
                     <div className="row">
-                        {/* images */}
+                        {this.state.images.map(image =>(
+                            <Cards
+                                key={image.id}
+                                id={image.id}
+                                name={image.name}
+                                click={image.clicked}
+                                image={image.image}
+                                //handle click
+                                />
+                        ))}
                     </div>
                 </div>
             </div>
