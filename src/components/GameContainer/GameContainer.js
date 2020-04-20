@@ -10,12 +10,9 @@ class GameContainer extends Component {
         topScore: 0
     };
 
-    //handleclick function
-
     handleClick = (id, clicked) => {
 
         const imageOrder = this.state.images;
-
 
         if (clicked) {
             imageOrder.forEach((image, index) => {
@@ -29,7 +26,7 @@ class GameContainer extends Component {
         } else {
             imageOrder.forEach((image, index) => {
                 if (id === image.id) {
-                    imageOrder[index].click = true;
+                    imageOrder[index].clicked = true;
                 }
             });
 
@@ -65,7 +62,7 @@ class GameContainer extends Component {
                                 key={image.id}
                                 id={image.id}
                                 name={image.name}
-                                click={image.clicked}
+                                clicked={image.clicked}
                                 image={image.image}
                                 handleClick={this.handleClick}
                             />
